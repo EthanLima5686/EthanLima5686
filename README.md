@@ -5,5 +5,4 @@ I like to collaborate with others on projects such as a Java animation project (
 
 Currently, I am working on a WebUI that can display and manipulate MQTT messages.
 
-You can reach me at: elima@uoguelph.ca<br>
-My pronouns are: he/him
+You can reach me at: elima@uoguelph.ca
