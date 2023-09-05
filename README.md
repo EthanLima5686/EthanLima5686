@@ -1,8 +1,8 @@
 ### **Hello and welcome to my Github profile!**
 
-I am currently learning Python and Javascript!<br>
-I like to collaborate with others on projects such as a Java animation project (ENGG1420Final) I did with a few of my classmates in the first year.
+I am currently learning more about JavaScript and Python!<br>
+The project I am most excited to share is my MQTTWebUI because it combines my knowledge of languages such as JavaScript and Python as well as Node.js and the Flask framework.
 
-Currently, I am working on mini projects utilizing JavaScript, HTML, CSS, Python, and C.
+Recently, I have working on mini projects utilizing HTML and CSS.
 
 You can reach me at: elima@uoguelph.ca
